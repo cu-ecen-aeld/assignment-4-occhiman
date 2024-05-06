@@ -1,5 +1,5 @@
 
-config BR2_PACKAGE_LD
+config BR2_PACKAGE_LDD
 	bool "ldd"
 	help
-	  Includes the misc-modules and scull drivers in the roorfs
+	  Includes the misc-modules and scull drivers in the rootfs
